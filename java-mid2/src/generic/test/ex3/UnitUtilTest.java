@@ -1,7 +1,6 @@
 package generic.test.ex3;
 
 import generic.test.ex3.unit.Marine;
-import generic.test.ex3.unit.UnitUtil;
 import generic.test.ex3.unit.Zealot;
 
 public class UnitUtilTest {
